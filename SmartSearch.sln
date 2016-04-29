@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartSearch", "SmartSearch\SmartSearch.vcxproj", "{CD6DBE7D-1ED4-42F1-A513-F7AF53DE5FF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartSearchDlg", "SmartSearchDlg\SmartSearchDlg.vcxproj", "{930D6946-29D5-44F2-9D0C-F03B9FD4BE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6DBE7D-1ED4-42F1-A513-F7AF53DE5FF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD6DBE7D-1ED4-42F1-A513-F7AF53DE5FF6}.Debug|Win32.Build.0 = Debug|Win32
+		{CD6DBE7D-1ED4-42F1-A513-F7AF53DE5FF6}.Release|Win32.ActiveCfg = Release|Win32
+		{CD6DBE7D-1ED4-42F1-A513-F7AF53DE5FF6}.Release|Win32.Build.0 = Release|Win32
+		{930D6946-29D5-44F2-9D0C-F03B9FD4BE71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{930D6946-29D5-44F2-9D0C-F03B9FD4BE71}.Debug|Win32.Build.0 = Debug|Win32
+		{930D6946-29D5-44F2-9D0C-F03B9FD4BE71}.Release|Win32.ActiveCfg = Release|Win32
+		{930D6946-29D5-44F2-9D0C-F03B9FD4BE71}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
